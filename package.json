@@ -1,0 +1,17 @@
+{
+  "name": "Gig-INTERVIEW-ASSESSMENT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Alao-Abiodun/Gig-INTERVIEW-ASSESSMENT.git",
+  "author": "Alao-Abiodun <46402042+Alao-Abiodun@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "test1": "nodemon test1",
+    "test2": "nodemon app"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
