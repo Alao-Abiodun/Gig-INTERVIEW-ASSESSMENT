@@ -6,8 +6,8 @@
   "author": "Alao-Abiodun <46402042+Alao-Abiodun@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "test1": "nodemon test1",
-    "test2": "nodemon app"
+    "test1": "nodemon ./Test1/test1",
+    "test2": "nodemon ./Test2/app"
   },
   "dependencies": {
     "axios": "^0.25.0",
